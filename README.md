@@ -4,7 +4,7 @@
 
 Welcome to The Caravan - A cycling-activist performance art piece exhibiting in Branford College, Downtown New Haven, The Internet, and potentially [your venue](mailto:marcusrussi+caravan@gmail.com). A framework and Live Example of a modern, hyper-local, highly reproducible, community-oriented, open-source social movement, a Public Art Project, and a Distributed Performance Art project. Currently evolving at the speed of the internet connections of Caravan's contributors.
 
-We are currently seeking funding through a Yale [Creative and Performing Arts](creativeandperformingarts.yale.edu/cpa-guidelines) grant. More funding sources are under consideration. Do you have experience with grant-writing, grant-writing for art projects, grant-writing for social movements, or a keen interest in one or more of the aforementioned areas of expertise? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
+We are currently seeking funding through a Yale [Creative and Performing Arts](creativeandperformingarts.yale.edu/cpa-guidelines) grant. More funding sources are under consideration. Do you have experience with grant-writing, grant-writing for art projects, grant-writing for social movements, or a keen interest in one or more of the aforementioned areas of expertise? __Get in [touch](mailto:marcusrussi+caravan@gmail.com)__!
 
 ## Marcus Russi/The Caravan, _A Potentially Productive Use of Social Media_, social media, 2017
 
@@ -56,19 +56,19 @@ We are in need of individuals available to:
     - Please keep in mind that your oral history will be published on [caravannewhaven.org (currently a dead link, check back soon)](https://caravannewhaven.org).
     - Contact [Marcus](mailto:marcusrussi+caravan@gmail.com) if you are still interested!
 - Conduct informal literature reviews concerning the physical health and mental health benefits of being a regular cyclist
-    - Do you have prior experience doing literature reviews on determinants of health, burden of disease, or urban transit (_or a strong interest_)? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
+    - Do you have prior experience doing literature reviews on determinants of health, burden of disease, or urban transit (_or a strong interest_)? __Get in [touch](mailto:marcusrussi+caravan@gmail.com)__!
 - Conduct informal literature reviews concerning the outsize amount of risk taken on by recreational cyclists and cyclist-commuters, and its impact on life-expectancy, untimely death or debilitating injury due to a motorist-bicyclist collision.
-    - Do you have prior experience doing risk analysis or risk management, analysis of disease or social burden, etc.? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
+    - Do you have prior experience doing risk analysis or risk management, analysis of disease or social burden, etc.? __Get in [touch](mailto:marcusrussi+caravan@gmail.com)__!
 - Research strategies for digital archival in the open-source, version controlled environment and make recommendations to The Caravan
-    - Do you hold an MLS or related degree? Are you a geek about digital archival and directing its future towards the development and use of open-source, accessible tools? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
+    - Do you hold an MLS or related degree? Are you a geek about digital archival and directing its future towards the development and use of open-source, accessible tools? __Get in [touch](mailto:marcusrussi+caravan@gmail.com)__!
 - Based on these recommendations, implement a small set of digital archival techniques within the Caravan GitHub repository
-    - Do you have experience with DevOps, GNU make, built tooling, etc? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
+    - Do you have experience with DevOps, GNU make, built tooling, etc? __Get in [touch](mailto:marcusrussi+caravan@gmail.com)__!
 - _One or more technical subprojects to be announced soon, as time and person-resource allows..._
 - _One or more arts-focused subprojects to be announced soon, as time and person-resource allows..._
 - _One or more logistics-focused subprojects to be announced soon, as time and person-resource allows..._
 - _One or more funding-focused subprojects to be announced soon, as time and person-resource allows..._
 - _One or more publicity- and messaging-focused subprojects to be announced soon, as time and person-resource allows..._
-- Do you have an idea for work that is worth doing under the umbrella of this art project/social movement? Did something in the italicized text above pique your interest? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
+- Do you have an idea for work that is worth doing under the umbrella of this art project/social movement? Did something in the italicized text above pique your interest? __Get in [touch](mailto:marcusrussi+caravan@gmail.com)__!
 
 # What are the people who are involved with Caravan thinking these days?
 
