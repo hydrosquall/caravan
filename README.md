@@ -18,11 +18,23 @@ Our second piece, comprising a few photographs, a multiplexed filename, and a hy
 
 [View a preserved copy](https://github.com/marcusrussi/caravan/blob/master/Finished-Artwork/Marcus%20Russi%20%26%20The%20Caravan%2C%20%22Walking%20Around%20My%20Neighborhood%20The%20Day%20After%20The%20Big%20Bang%20Noise%22%2C%202017%20(~1504562400uts)%2C%20social%20media.pdf)
 
-## Marcus Russi/The Caravan, JAHUDATSSL (Just Another Hopeless Undergraduate Doing A Tech Startup Soft-Launch), email media, 2017
+## Marcus Russi/The Caravan, _JAHUDATSSL (Just Another Hopeless Undergraduate Doing A Tech Startup Soft-Launch)_, email media, 2017
 
 Our third piece is an announcement to some undergraduates, predominantly students of Computer Science, at Yale University. It is on display on Marcus' email account and the accounts of anybody who received or was forwarded, bcc'd, etc. It documents the first opportunity electronic mail was used during the course of the project to recruit collaborators from a targeted population (in this case, _nerds_, man)
 
 [View a preserved copy](https://github.com/marcusrussi/caravan/blob/master/Finished-Artwork/Gmail%20-%20Marcus%20Russi%20%26%20The%20Caravan%2C%20JAHUD...tartup%20Soft-Launch)%2C%202017%20(~1504598110uts)%2C%20email%20media.pdf)
+
+## Marcus Russi/The Caravan, _Late Night or Early Morning Ideation at the Scene of the Crime (I owed the world a Beer)_, street media, 2017
+
+[Description pending, I don't feel the need to explain myself right now -Marcus]
+
+[View a preserved copy](https://github.com/marcusrussi/caravan/blob/master/Finished-Artwork/Marcus%20Russi%20%26%20The%20Caravan%2C%20%22Late%20Night%20or%20Early%20Morning%20Ideation%20at%20the%20Scene%20of%20the%20Crime%20(I%20owed%20the%20world%20a%20Beer)%22%2C%202017%2C%20street%20media.pdf)
+
+## Marcus Russi/The Caravan, _Good Morning New Haven-Area Motorists (Please Hold While We Bend Over For You_, street media, 2017
+
+[Description pending, I don't feel the need to explain myself right now -Marcus]
+
+[View a preserved copy](https://github.com/marcusrussi/caravan/blob/master/Finished-Artwork/Marcus%20Russi%20%26%20The%20Caravan%2C%20%22Good%20Morning%20New%20Haven-Area%20Motorists%20(Please%20Hold%20While%20We%20Bend%20Over%20For%20You)%22%2C%202017%2C%20street%20media.pdf)
 
 # More links
 
