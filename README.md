@@ -1,5 +1,5 @@
 # caravan
-The Caravan - A Cycling-Activist Performance Art Piece Exhibiting in Branford College and Downtown New Haven
+The Caravan - A Cycling-Activist Performance Art Piece Exhibiting in Branford College, Downtown New Haven, The Internet, and potentially [your venue](mailto:marcusrussi+caravan@gmail.com)
 
 ## Marcus Russi, _A Potentially Productive Use of Social Media_, mixed media, 2017
 [View a preserved copy](https://github.com/marcusrussi/caravan/blob/master/Marcus%20Russi%2C%20%22A%20Potentially%20Productive%20Use%20of%20Social%20Media%22%2C%202017%2C%20mixed%20media.pdf)
