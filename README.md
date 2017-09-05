@@ -1,5 +1,5 @@
-`[todo] put a build passing badge here)`  
-`[todo] put a license badge here)`
+`[todo] put a build passing badge here`  
+`[todo] put a license badge here`
 
 __If you have been hit by a car and need immediate medical attention or resuscitation from cardiovascular arrest secondary to Blunt Force Trauma, please dial 911 IMMEDIATELY. Do not wait. If you are a child experiencing traumatic cardiovascular arrest, once you have dialed 911, you may be interested in reviewing [this paper](https://github.com/marcusrussi/caravan/blob/master/Resources/Academic-Papers/1484.full.pdf)__
 
