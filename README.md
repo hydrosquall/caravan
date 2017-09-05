@@ -6,13 +6,13 @@ We are currently seeking funding through a Yale [Creative and Performing Arts](c
 
 Our first piece was finished on Monday afternoon, and is currently on display on the Facebook Timeline of [Marcus Russi](https://www.facebook.com/marcus.russi).
 
-[View a preserved copy](https://github.com/marcusrussi/caravan/blob/master/Marcus%20Russi%2C%20%22A%20Potentially%20Productive%20Use%20of%20Social%20Media%22%2C%202017%2C%20mixed%20media.pdf)
+[View a preserved copy](https://github.com/marcusrussi/caravan/blob/master/Finished-Artwork/Marcus%20Russi%20%26%20The%20Caravan%2C%20%22A%20Potentially%20Productive%20Use%20of%20Social%20Media%22%2C%202017%20(~%201504543320uts)%2C%20social%20media)
 
 ## Marcus Russi/The Caravan, _Walking Around My Neighborhood The Day After The Big Bang Noise_, social media, 2017
 
 Our second piece, comprising a few photographs, a multiplexed filename, and a hyperlink was finished on Tuesday evening, and is currently on display on the Facebook Timeline of [Marcus Russi](https://www.facebook.com/marcus.russi)
 
-[View a preserved copy (BROKEN)](https://github.com/marcusrussi/caravan/blob/master/Finished-Artwork/Marcus%20Russi%20%26%20The%20Caravan%2C%20%22Walking%20Around%20My%20Neighborhood%20The%20Day%20After%20The%20Big%20Bang%20Noise%22%2C%202017%20(~1504562400uts)%2C%20mixed%20media.pdf)
+[View a preserved copy](https://github.com/marcusrussi/caravan/blob/master/Finished-Artwork/Marcus%20Russi%20%26%20The%20Caravan%2C%20%22Walking%20Around%20My%20Neighborhood%20The%20Day%20After%20The%20Big%20Bang%20Noise%22%2C%202017%20(~1504562400uts)%2C%20social%20media.pdf)
 
 # More links
 
