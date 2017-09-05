@@ -5,7 +5,7 @@ __If you have been hit by a car and need immediate medical attention or resuscit
 
 ![logo]
 
-Welcome to The Caravan - A cycling-activist performance art piece exhibiting in Branford College, Downtown New Haven, The Internet, and potentially [your venue](mailto:marcusrussi+caravan@gmail.com). A framework and Live Example of a modern, hyper-local, highly reproducible, community-oriented, open-source social movement, a Public Art Project, and a Distributed Performance Art project. Currently evolving at the speed of the internet connections of Caravan's contributors.
+Welcome to The Caravan by [Dwight St. Collective](https://github.com/dwight-st-collective) - A cycling-activist performance art piece exhibiting in Branford College, Downtown New Haven, The Internet, and potentially [your venue](mailto:marcusrussi+caravan@gmail.com). A framework and Live Example of a modern, hyper-local, highly reproducible, community-oriented, open-source social movement, a Public Art Project, and a Distributed Performance Art project. Currently evolving at the speed of the internet connections of Caravan's contributors.
 
 We are currently seeking funding through a Yale [Creative and Performing Arts](creativeandperformingarts.yale.edu/cpa-guidelines) grant. More funding sources are under consideration. Do you have experience with grant-writing, grant-writing for art projects, grant-writing for social movements, or a keen interest in one or more of the aforementioned areas of expertise? __Get in [touch](mailto:marcusrussi+caravan@gmail.com)__!
 
