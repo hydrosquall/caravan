@@ -1,3 +1,5 @@
+(todo: put a build passing badge here) (todo: put a license badge here)
+
 ![logo]
 
 Welcome to The Caravan - A cycling-activist performance art piece exhibiting in Branford College, Downtown New Haven, The Internet, and potentially [your venue](mailto:marcusrussi+caravan@gmail.com). A framework and Live Example of a modern, hyper-local, highly reproducible, community-oriented, open-source social movement, a Public Art Project, and a Distributed Performance Art project. Currently evolving at the speed of the internet connections of Caravan's contributors.
