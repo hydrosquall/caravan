@@ -1,3 +1,5 @@
+![logo]
+
 Welcome to The Caravan - A cycling-activist performance art piece exhibiting in Branford College, Downtown New Haven, The Internet, and potentially [your venue](mailto:marcusrussi+caravan@gmail.com). A framework and Live Example of a modern, hyper-local, highly reproducible, community-oriented, open-source social movement, a Public Art Project, and a Distributed Performance Art project. Currently evolving at the speed of the internet connections of Caravan's contributors.
 
 We are currently seeking funding through a Yale [Creative and Performing Arts](creativeandperformingarts.yale.edu/cpa-guidelines) grant. More funding sources are under consideration. Do you have experience with grant-writing, grant-writing for art projects, grant-writing for social movements, or a keen interest in one or more of the aforementioned areas of expertise? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
@@ -22,7 +24,11 @@ Our third piece is an announcement to some undergraduates, predominantly student
 
 # More links
 
+![dgear]
+
 Soon, [this will be a link](http://bsbc.co/) to The Caravan's website, but for now it will direct you to the website of the Bradley Street Bicycle Co-op.
+
+![bsbc]
 
 Soon, [this will be a link](https://www.facebook.com/thedevilsgear/) to The Caravan's Facebook page, but for now it will direct you to the Facebook page of the devil's gear bike shop.
 
@@ -62,4 +68,7 @@ Refer to rough-schedule.png, inlined here:
 
 ![The project schedule][rough-schedule]
 
+[logo]: https://github.com/marcusrussi/caravan/blob/master/images/caravan-logo.jpeg?raw=true "The project logo"
+[dgear]: https://github.com/marcusrussi/caravan/blob/master/images/devil's%20gear%20bike%20shop%20-%20Google%20Search%20Google%20Chrome,%20Today%20at%203.44.56%20AM.png?raw=true "Devil's gear bike shop"
+[bsbc]: https://github.com/marcusrussi/caravan/blob/master/images/bradley%20street%20bike%20coop%20-%20Google%20Search%20Google%20Chrome,%20Today%20at%203.45.16%20AM.png?raw=true "BSBC"
 [rough-schedule]: https://github.com/marcusrussi/caravan/blob/master/rough-schedule.png "A rough schedule from September 5 (day 1) thru 2018"
