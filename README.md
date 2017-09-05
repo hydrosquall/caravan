@@ -10,7 +10,7 @@ Our first piece was finished on Monday afternoon, and is currently on display on
 
 Our second piece, comprising a few photographs, a multiplexed filename, and a hyperlink was finished on Tuesday evening, and is currently on display on the Facebook Timeline of [Marcus Russi](https://www.facebook.com/marcus.russi)
 
-[View a preserved copy (BROKEN)](http://google.com)
+[View a preserved copy (BROKEN)](https://github.com/marcusrussi/caravan/blob/master/Finished-Artwork/Marcus%20Russi%20%26%20The%20Caravan%2C%20%22Walking%20Around%20My%20Neighborhood%20The%20Day%20After%20The%20Big%20Bang%20Noise%22%2C%202017%20(~1504562400uts)%2C%20mixed%20media.pdf)
 
 # More links
 
