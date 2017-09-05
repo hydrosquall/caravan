@@ -37,3 +37,9 @@ We are in need of individuals available to:
     - Do you have experience with DevOps, GNU make, built tooling, etc? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
 - _Many more to be announced soon, as time and person-resource allows..._
 - Do you have an idea for work that is worth doing under the umbrella of this art project/social movement? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
+
+# What are the people who are involved with Caravan thinking these days?
+
+[Mindlog.txt](https://github.com/marcusrussi/caravan/blob/master/Mindlog.txt)
+
+(Even if you are not currently involved with Caravan, feel free to contribute thoughts and/feelings to Mindlog.txt through [this page](https://github.com/marcusrussi/caravan/edit/master/Mindlog.txt). The page will guide you through issuing a Pull Request on the 'master' branch). The Mindlog is for the Community!
