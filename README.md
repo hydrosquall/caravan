@@ -1,12 +1,14 @@
-Welcome to The Caravan - A Cycling-Activist Performance Art Piece Exhibiting in Branford College, Downtown New Haven, The Internet, and potentially [your venue](mailto:marcusrussi+caravan@gmail.com). A framework and example of a modern, hyper-local, highly reproducible, community-oriented, open-source social movement. Currently evolving at the speed of the internet connections of Caravan's contributors.
+Welcome to The Caravan - A Cycling-Activist Performance Art Piece Exhibiting in Branford College, Downtown New Haven, The Internet, and potentially [your venue](mailto:marcusrussi+caravan@gmail.com). A framework and example of a modern, hyper-local, highly reproducible, community-oriented, open-source social movement, a Public Art Project, and a Distributed Performance Art project. Currently evolving at the speed of the internet connections of Caravan's contributors.
 
-## Marcus Russi/The Caravan, _A Potentially Productive Use of Social Media_, mixed media, 2017
+We are currently seeking funding through a Yale [Creative and Performing Arts](creativeandperformingarts.yale.edu/cpa-guidelines) grant. More funding sources are under consideration. Do you have experience with grant-writing, grant-writing for art projects, grant-writing for social movements, or a keen interest in one or more of the aforementioned areas of expertise? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
+
+## Marcus Russi/The Caravan, _A Potentially Productive Use of Social Media_, social media, 2017
 
 Our first piece was finished on Monday afternoon, and is currently on display on the Facebook Timeline of [Marcus Russi](https://www.facebook.com/marcus.russi).
 
 [View a preserved copy](https://github.com/marcusrussi/caravan/blob/master/Marcus%20Russi%2C%20%22A%20Potentially%20Productive%20Use%20of%20Social%20Media%22%2C%202017%2C%20mixed%20media.pdf)
 
-## Marcus Russi/The Caravan, _Walking Around My Neighborhood The Day After The Big Bang Noise_, 2017
+## Marcus Russi/The Caravan, _Walking Around My Neighborhood The Day After The Big Bang Noise_, social media, 2017
 
 Our second piece, comprising a few photographs, a multiplexed filename, and a hyperlink was finished on Tuesday evening, and is currently on display on the Facebook Timeline of [Marcus Russi](https://www.facebook.com/marcus.russi)
 
@@ -35,8 +37,12 @@ We are in need of individuals available to:
     - Do you hold an MLS or related degree? Are you a geek about digital archival and directing its future towards the development and use of open-source, accessible tools? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
 - Based on these recommendations, implement a small set of digital archival techniques within the Caravan GitHub repository
     - Do you have experience with DevOps, GNU make, built tooling, etc? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
-- _Many more to be announced soon, as time and person-resource allows..._
-- Do you have an idea for work that is worth doing under the umbrella of this art project/social movement? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
+- _One or more technical subprojects to be announced soon, as time and person-resource allows..._
+- _One or more arts-focused subprojects to be announced soon, as time and person-resource allows..._
+- _One or more logistics-focused subprojects to be announced soon, as time and person-resource allows..._
+- _One or more funding-focused subprojects to be announced soon, as time and person-resource allows..._
+- _One or more publicity- and messaging-focused subprojects to be announced soon, as time and person-resource allows..._
+- Do you have an idea for work that is worth doing under the umbrella of this art project/social movement? Did something in the italicized text above pique your interest? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
 
 # What are the people who are involved with Caravan thinking these days?
 
