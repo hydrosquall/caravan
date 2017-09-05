@@ -1,14 +1,14 @@
 Welcome to The Caravan - A Cycling-Activist Performance Art Piece Exhibiting in Branford College, Downtown New Haven, The Internet, and potentially [your venue](mailto:marcusrussi+caravan@gmail.com). A framework and example of a modern, hyper-local, highly reproducible, community-oriented, open-source social movement. Currently evolving at the speed of the internet connections of Caravan's contributors.
 
-Our first piece was finished on Monday afternoon, and is currently on display on the Facebook Timeline of [Marcus Russi](https://www.facebook.com/marcus.russi).
+## Marcus Russi/The Caravan, _A Potentially Productive Use of Social Media_, mixed media, 2017
 
-## Marcus Russi, _A Potentially Productive Use of Social Media_, mixed media, 2017
+Our first piece was finished on Monday afternoon, and is currently on display on the Facebook Timeline of [Marcus Russi](https://www.facebook.com/marcus.russi).
 
 [View a preserved copy](https://github.com/marcusrussi/caravan/blob/master/Marcus%20Russi%2C%20%22A%20Potentially%20Productive%20Use%20of%20Social%20Media%22%2C%202017%2C%20mixed%20media.pdf)
 
-Our second piece, comprising a few photographs, a multiplexed filename, and a hyperlink was finished on Tuesday evening, and is currently on display on the Facebook Timeline of [Marcus Russi](https://www.facebook.com/marcus.russi)
+## Marcus Russi/The Caravan, _Walking Around My Neighborhood The Day After The Big Bang Noise_, 2017
 
-## Marcus Russi, _Walking Around My Neighborhood The Day After The Big Bang Noise_, 2017
+Our second piece, comprising a few photographs, a multiplexed filename, and a hyperlink was finished on Tuesday evening, and is currently on display on the Facebook Timeline of [Marcus Russi](https://www.facebook.com/marcus.russi)
 
 [View a preserved copy (BROKEN)](http://google.com)
 
