@@ -14,6 +14,12 @@ Our second piece, comprising a few photographs, a multiplexed filename, and a hy
 
 [View a preserved copy](https://github.com/marcusrussi/caravan/blob/master/Finished-Artwork/Marcus%20Russi%20%26%20The%20Caravan%2C%20%22Walking%20Around%20My%20Neighborhood%20The%20Day%20After%20The%20Big%20Bang%20Noise%22%2C%202017%20(~1504562400uts)%2C%20social%20media.pdf)
 
+## Marcus Russi/The Caravan, JAHUDATSSL (Just Another Hopeless Undergraduate Doing A Tech Startup Soft-Launch), email media, 2017
+
+Our third piece is an announcement to some undergraduates, predominantly students of Computer Science, at Yale University. It is on display on Marcus' email account and the accounts of anybody who received or was forwarded, bcc'd, etc. It documents the first opportunity electronic mail was used during the course of the project to recruit collaborators from a targeted population (in this case, _nerds_, man)
+
+[View a preserved copy](https://github.com/marcusrussi/caravan/blob/master/Finished-Artwork/Marcus%20Russi%20%26%20The%20Caravan%2C%20%22Walking%20Around%20My%20Neighborhood%20The%20Day%20After%20The%20Big%20Bang%20Noise%22%2C%202017%20(~1504562400uts)%2C%20social%20media.pdf)
+
 # More links
 
 Soon, [this will be a link](http://bsbc.co/) to The Caravan's website, but for now it will direct you to the website of the Bradley Street Bicycle Co-op.
