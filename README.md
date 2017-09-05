@@ -44,7 +44,7 @@ We are in need of individuals available to:
     - Please keep in mind that your oral history will be published on [caravannewhaven.org (currently a dead link, check back soon)](https://caravannewhaven.org).
     - Contact [Marcus](mailto:marcusrussi+caravan@gmail.com) if you are still interested!
 - Conduct informal literature reviews concerning the physical health and mental health benefits of being a regular cyclist
-    - Do you have prior experience doing literature reviews on determinants of health, burden of disease, or urban transit (__or a strong interest__)? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
+    - Do you have prior experience doing literature reviews on determinants of health, burden of disease, or urban transit (_or a strong interest_)? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
 - Conduct informal literature reviews concerning the outsize amount of risk taken on by recreational cyclists and cyclist-commuters, and its impact on life-expectancy, untimely death or debilitating injury due to a motorist-bicyclist collision.
     - Do you have prior experience doing risk analysis or risk management, analysis of disease or social burden, etc.? Get in [touch](mailto:marcusrussi+caravan@gmail.com)!
 - Research strategies for digital archival in the open-source, version controlled environment and make recommendations to The Caravan
