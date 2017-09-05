@@ -1,0 +1,9 @@
+http://bit.ly/that-was-scary => https://github.com/marcusrussi/caravan
+Known locations:
+  - listed on Dwight and Edgewood sculpture
+  - listed on 229 Dwight front-of-house sculpture
+
+http://bit.ly/caravanonline => https://github.com/marcusrussi/caravan
+Known locations:
+  - listed on a [Facebook post](https://www.facebook.com/photo.php?fbid=10213393006687207&set=a.1185428443453.2030191.1460528985&type=1&theater)
+  - listed on ../README.md

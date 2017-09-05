@@ -1,11 +1,15 @@
 `[todo] put a build passing badge here`  
 `[todo] put a license badge here`
 
+Online link: `[http://bit.ly/caravanonline](http://bit.ly/caravanonline)`  
+Offline link: `[http://bit.ly/that-was-scary](http://bit.ly/that-was-scary)`  
+   [do not click on this link, write it on physical objects and put them on display wherever you want]
+
 ![headerphoto]
   
 
 
-__If you have been hit by a car and need immediate medical attention or resuscitation from cardiovascular arrest secondary to Blunt Force Trauma, please dial 911 IMMEDIATELY. Do not wait. If you are a child experiencing traumatic cardiovascular arrest, once you have dialed 911, you may be interested in reviewing [this paper](https://github.com/marcusrussi/caravan/blob/master/Resources/Academic-Papers/1484.full.pdf) while your caregivers futilely attempt to save your life as ALS approaches the scene.__
+__If you have been hit by a car and need immediate medical attention or resuscitation from cardiovascular arrest secondary to Blunt Force Trauma, please dial 911 IMMEDIATELY. Do not wait. If you are a child experiencing traumatic cardiovascular arrest, once you have dialed 911, you may be interested in reviewing [this paper](https://github.com/marcusrussi/caravan/blob/master/Resources/Academic-Papers/1484.full.pdf) while your caregivers futilely attempt to save your life as ALS speeds to the scene, knowing full well that the most valuable person in their lives probably could have been declared dead 10-120s ago.__
   
 
 
