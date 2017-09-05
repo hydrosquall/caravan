@@ -49,3 +49,11 @@ We are in need of individuals available to:
 [Mindlog.txt](https://github.com/marcusrussi/caravan/blob/master/Mindlog.txt)
 
 (Even if you are not currently involved with Caravan, feel free to contribute thoughts and/feelings to Mindlog.txt through [this page](https://github.com/marcusrussi/caravan/edit/master/Mindlog.txt). The page will guide you through issuing a Pull Request on the 'master' branch). The Mindlog is for the Community!
+
+# What does the schedule of the project look like at this point?
+
+Refer to rough-schedule.png, inlined here:
+
+![The project schedule][rough-schedule]
+
+[rough-schedule]: https://github.com/marcusrussi/caravan/blob/master/rough-schedule.png "A rough schedule from September 5 (day 1) thru 2018"
