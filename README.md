@@ -1,6 +1,8 @@
 `[todo] put a build passing badge here`  
 `[todo] put a license badge here`
 
+![headerphoto]
+
 __If you have been hit by a car and need immediate medical attention or resuscitation from cardiovascular arrest secondary to Blunt Force Trauma, please dial 911 IMMEDIATELY. Do not wait. If you are a child experiencing traumatic cardiovascular arrest, once you have dialed 911, you may be interested in reviewing [this paper](https://github.com/marcusrussi/caravan/blob/master/Resources/Academic-Papers/1484.full.pdf) while your caregivers futilely attempt to save your life as ALS approaches the scene.__
 
 ![logo]
@@ -85,6 +87,7 @@ Refer to rough-schedule.png, inlined here:
 
 ![The project schedule][rough-schedule]
 
+[headerphoto]: https://github.com/marcusrussi/caravan/raw/master/images/header-image.jpeg
 [logo]: https://github.com/marcusrussi/caravan/blob/master/images/caravan-logo.jpeg?raw=true "The project logo"
 [dgear]: https://github.com/marcusrussi/caravan/blob/master/images/devil's%20gear%20bike%20shop%20-%20Google%20Search%20Google%20Chrome,%20Today%20at%203.44.56%20AM.png?raw=true "Devil's gear bike shop"
 [bsbc]: https://github.com/marcusrussi/caravan/blob/master/images/bradley%20street%20bike%20coop%20-%20Google%20Search%20Google%20Chrome,%20Today%20at%203.45.16%20AM.png?raw=true "BSBC"
