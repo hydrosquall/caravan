@@ -1,5 +1,5 @@
-`(todo: put a build passing badge here)`
-`(todo: put a license badge here)`
+`[todo] put a build passing badge here)`
+`[todo] put a license badge here)`
 
 __If you have been hit by a car and need immediate medical attention or resuscitation from cardiovascular arrest secondary to Blunt Force Trauma, please dial 911 IMMEDIATELY. Do not wait.__
 
