@@ -1,0 +1,9 @@
+IGotHypedON: a utility to scaffold a new folder for people to list material which has inspired them to work on this project
+
+In functional notation:
+
+IGotHypedOn: firstname, ..., lastname => new folder named {firstname ... lastname} (concatenated w/ space inbetween)
+
+{firstname ... lastname}: a folder which contains a README.md whose source code is simply
+
+"#Your Inspiration Goes Here\n" (make sure the file ends in a newline)
